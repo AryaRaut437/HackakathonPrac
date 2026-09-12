@@ -1,4 +1,4 @@
 # HackathonPrac
-This is my first Git Repo.
+This is My First Git Repo.
 <br>
 Author : Arya Raut
